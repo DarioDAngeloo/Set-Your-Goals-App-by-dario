@@ -1,7 +1,7 @@
 .task-container {
   width: 500px;
   min-height: 65px;
-  background-color: #b1bb9b;
+  /* background-color: #b1bb9b; */
   margin: 5px 0;
   padding: 8px 15px 8px 20px;
   display: flex;

@@ -6,18 +6,18 @@
 
 html,
 body {
-  /* background-color: #c6c3ba; */
+  background-color: #c6c3ba;
   margin-top: 20px;
   color: #344e41;
   font-family: Lato, sans-serif;
 }
 
 h1 {
-  color: #dad7cd;
+  color: #e2e0da;
   font-size: 25px;
   font-family: Roboto, sans-serif;
   text-align: center;
-  margin: 10px 0;
+  margin: 20px 0;
 }
 
 .App {
