@@ -6,9 +6,9 @@
 }
 
 .task-input {
-  width: 350px;
+  width: 250px;
   font-size: 18px;
-  background-color: #f2f4ea;
+  /* background-color: #f2f4ea; */
   padding: 14px 32px 14px 16px;
   border-radius: 4px 0 0 4px;
   border: 2px solid #6a866c;
